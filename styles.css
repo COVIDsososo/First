@@ -1,19 +1,19 @@
 
-   #main {
+   .main {
      background-color: silver;     
    }
 
-   #text1 {
+   .text1 {
      color: green; 
    }
    
-    #text2 {  
+    .text2 {  
      white-space: nowrap;
      overflow: hidden;
      text-overflow: ellipsis;
    }
 
-   #div {
+   .div {
      background: white;
      width: 10%;
      position: absolute;
@@ -21,7 +21,7 @@
      top: 180px;  
    }
 
-   #div2 {
+   .div2 {
      background: white;
      width: 10%;
      position: absolute;
@@ -29,12 +29,12 @@
      top: 180px;  
    }
    
-   #image {
+   .image {
      border: 10px solid green;
      border-radius: 50%; 
    }
 
-   #image2 {
+   .image2 {
      border: 10px dashed red;
      border-radius: 50%;
    }
